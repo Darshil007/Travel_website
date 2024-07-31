@@ -1,8 +1,10 @@
-# React + Vite
+# Travel Agency Website ( Responsive )
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Responsive Travel Website 🌊
 
-Currently, two official plugins are available:
+* Travel website to the most beautiful beaches, using Reactjs and Tailwind.
+* Includes a dark and light mode.
+* Developed first with the Mobile First methodology, then for desktop.
+* Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Travel Agency Landing Page UI](https://github.com/user-attachments/assets/553c849f-ebc8-4292-a2e4-3605c022ebf6)
